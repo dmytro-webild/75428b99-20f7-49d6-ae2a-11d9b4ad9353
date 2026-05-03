@@ -69,27 +69,27 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/empty-wood-chair_1339-6717.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/empty-wood-chair_1339-6717.jpg?_wi=1",
           imageAlt: "Culinary excellence",
         },
         {
           id: "2",
-          imageSrc: "http://img.b2bpic.net/free-photo/restaurant-table-private-room-with-fireplace-wooden-ceilings-brick-walls_140725-8458.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/restaurant-table-private-room-with-fireplace-wooden-ceilings-brick-walls_140725-8458.jpg?_wi=1",
           imageAlt: "Table setting",
         },
         {
           id: "3",
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-containing-mixed-ingredients-blue-ceramic-plate_114579-1997.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-containing-mixed-ingredients-blue-ceramic-plate_114579-1997.jpg?_wi=1",
           imageAlt: "Gourmet prep",
         },
         {
           id: "4",
-          imageSrc: "http://img.b2bpic.net/free-photo/beverage-topped-with-fried-orange-slice_141793-1125.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beverage-topped-with-fried-orange-slice_141793-1125.jpg?_wi=1",
           imageAlt: "Elegant decor",
         },
         {
           id: "5",
-          imageSrc: "http://img.b2bpic.net/free-photo/middle-age-friends-night-having-dinner_23-2149190934.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/middle-age-friends-night-having-dinner_23-2149190934.jpg?_wi=1",
           imageAlt: "Artistic dish",
         },
         {
@@ -277,7 +277,7 @@ export default function LandingPage() {
           quote: "A truly magical evening. Every dish was a masterpiece.",
           tag: "Regular",
           avatarSrc: "http://img.b2bpic.net/free-photo/close-up-people-spending-time-together_23-2149152906.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/empty-wood-chair_1339-6717.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/empty-wood-chair_1339-6717.jpg?_wi=2",
           imageAlt: "happy customer dining",
         },
         {
@@ -288,7 +288,7 @@ export default function LandingPage() {
           quote: "The wine pairing elevated the dinner to another level.",
           tag: "Foodie",
           avatarSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517424.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/restaurant-table-private-room-with-fireplace-wooden-ceilings-brick-walls_140725-8458.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/restaurant-table-private-room-with-fireplace-wooden-ceilings-brick-walls_140725-8458.jpg?_wi=2",
           imageAlt: "happy customer dining",
         },
         {
@@ -299,7 +299,7 @@ export default function LandingPage() {
           quote: "The ambiance is perfect for a special celebration.",
           tag: "VIP",
           avatarSrc: "http://img.b2bpic.net/free-photo/people-cheering-with-wine-glasses-luxurious-restaurant_23-2150517422.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-containing-mixed-ingredients-blue-ceramic-plate_114579-1997.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vegetable-salad-containing-mixed-ingredients-blue-ceramic-plate_114579-1997.jpg?_wi=2",
           imageAlt: "happy customer dining",
         },
         {
@@ -310,7 +310,7 @@ export default function LandingPage() {
           quote: "Best steak I've had in years. Unbeatable.",
           tag: "Returning",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-discussing-with-waiter-who-is-serving-her-food-pub_637285-6627.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/beverage-topped-with-fried-orange-slice_141793-1125.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beverage-topped-with-fried-orange-slice_141793-1125.jpg?_wi=2",
           imageAlt: "happy customer dining",
         },
         {
@@ -321,7 +321,7 @@ export default function LandingPage() {
           quote: "Simply the best fine dining in the city.",
           tag: "Connoisseur",
           avatarSrc: "http://img.b2bpic.net/free-photo/girl-sitting-table-holding-mobile-phone-indoors_171337-17096.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/middle-age-friends-night-having-dinner_23-2149190934.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/middle-age-friends-night-having-dinner_23-2149190934.jpg?_wi=2",
           imageAlt: "happy customer dining",
         },
       ]}
